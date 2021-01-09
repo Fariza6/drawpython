@@ -36,4 +36,14 @@ forward(150)
 back(150)
 right(90)
 
+width(10)
+color('black')
+
+left(90)
+forward(150)
+back(150)
+right(90)
+
+
+
 exitonclick()
