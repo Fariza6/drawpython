@@ -14,6 +14,14 @@ down()
 width(10)
 color('green')
 
+left(90)
+forward(150)
+back(150)
+right(90)
+
+
+width(10)
+color('red')
 
 left(90)
 forward(150)
