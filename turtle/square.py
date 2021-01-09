@@ -7,4 +7,17 @@ forward(150)
 back(150)
 right(90)
 
+up()
+forward(20)
+down()
+
+width(10)
+color('green')
+
+
+left(90)
+forward(150)
+back(150)
+right(90)
+
 exitonclick()
