@@ -11,4 +11,10 @@ while line < 4:
     right(90)
     forward(20)
     line = line + 1
+
+
+def exitonecleck():
+    pass
+
+
 exitonecleck()
